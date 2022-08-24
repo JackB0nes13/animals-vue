@@ -1,6 +1,5 @@
 <template>
   <div id="animal">
-      
       <axios></axios>
        <table style="width:25%">
             <tr id=headers>
