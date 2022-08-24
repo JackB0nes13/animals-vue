@@ -1,0 +1,10 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+  }
+  table, td, th { 
+    border:1px solid black;
+  }
+  #headers { 
+    font-size: 30px;
+  }
